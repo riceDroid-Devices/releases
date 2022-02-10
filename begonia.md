@@ -1,0 +1,11 @@
+# 4.0 DREAM Changelogs 
+- Switch back to Non Dynamic build
+- Synced with Arcana 4.0 changes
+- February security patch
+- Switch back to redfin fp
+- Fixed hotspot tethering
+- Fix 3rd party video app output
+- Uprev bluetooth audio to 2.1
+- Added MTK Engineering Mode
+- Screen recording improvements
+- Updated Blobs from V12.5.7.0.RGGMIXM
