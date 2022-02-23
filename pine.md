@@ -8,7 +8,7 @@
        - if stock camera force closes when switching to front cam on video mode just change the quality to 720p on settings 
        - face unlock is partially working, just find a spot where sunlight/lighting is good and finish the circle/face scan, it will say failed but just close the settings app or press canceled, the face model is added (will be fixed upon further release or on mi439 tree)
        
-      Source Changelogs: 18/02/22
+      Source Changelogs: 23/02/22
       - Fixed DND for gamespace
       - added faceunlock
       - added app lock
