@@ -1,11 +1,20 @@
-# 4.0 DREAM Changelogs 
-- Switch back to Non Dynamic build
-- Synced with Arcana 4.0 changes
-- February security patch
-- Switch back to redfin fp
-- Fixed hotspot tethering
-- Fix 3rd party video app output
-- Uprev bluetooth audio to 2.1
-- Added MTK Engineering Mode
-- Screen recording improvements
-- Updated Blobs from V12.5.7.0.RGGMIXM
+24/02/2022
+
+Device Changelogs:
+
+- Synced with Arcana 4.1 changes
+- Upstream kernel to v4.14.268
+- Compile kernel using proton clang
+- Added Face Unlock & AppLock
+- Added Gcam buffer fix by default
+- Enable 40MHz channel for 2.4ghz wifi
+- Use pixel offline charging animation
+- Update Graphene Camera to version 12
+- Disable latch unsignal buffers
+- Enable stune boost for top-app
+- Reduce number of CPUs for system-background apps
+- Use HintManager for HWUI
+- Silence some spammy logtags 
+- Added developer GSI keys
+- Use full qualified name for manifest entries
+- Rework Tethering overlay
