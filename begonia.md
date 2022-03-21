@@ -1,20 +1,25 @@
-24/02/2022
+21/03/2022
 
 Device Changelogs:
 
-- Synced with Arcana 4.1 changes
-- Upstream kernel to v4.14.268
-- Compile kernel using proton clang
-- Added Face Unlock & AppLock
-- Added Gcam buffer fix by default
-- Enable 40MHz channel for 2.4ghz wifi
-- Use pixel offline charging animation
-- Update Graphene Camera to version 12
-- Disable latch unsignal buffers
-- Enable stune boost for top-app
-- Reduce number of CPUs for system-background apps
-- Use HintManager for HWUI
-- Silence some spammy logtags 
-- Added developer GSI keys
-- Use full qualified name for manifest entries
-- Rework Tethering overlay
+• Synced with Arcana 5.1 changes
+• Upstream kernel to v4.14.272
+• Disable encryption ( no need to flash dfe )
+• March SP & FP patch
+• Reduce screen shot delay to 0
+• Enable haptic feedback on text selection/insertion
+• Enable vibration control
+• Enable HWUI compiler for perf
+• Increase ZRAM size to 4GB
+• Switch to skiaglthreaded renderthread backend
+• Boost foreground to maximum when launching an app
+• Allow raising sched_boost to 6 levels
+• Add interaction powerhint boosts
+• Added some tcp congestion algorithm
+• Use input boost to improve interaction hint
+• Added ANX Camera
+• Added begonia parts ( thanks to valap )
+• Fixed media volume
+• Fixed fingerprint delay ( thanks to timjosten )
+• Fixed one-handed mode flickering ( thanks to timjosten )
+• Address some sepolicy denials
