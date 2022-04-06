@@ -2,24 +2,25 @@
 
 Device Changelogs:
 
-• Synced with Arcana 5.1 changes
-• Upstream kernel to v4.14.272
-• Disable encryption ( no need to flash dfe )
-• March SP & FP patch
-• Reduce screen shot delay to 0
-• Enable haptic feedback on text selection/insertion
-• Enable vibration control
-• Enable HWUI compiler for perf
-• Increase ZRAM size to 4GB
-• Switch to skiaglthreaded renderthread backend
-• Boost foreground to maximum when launching an app
-• Allow raising sched_boost to 6 levels
-• Add interaction powerhint boosts
-• Added some tcp congestion algorithm
-• Use input boost to improve interaction hint
-• Added ANX Camera
-• Added begonia parts ( thanks to valap )
-• Fixed media volume
-• Fixed fingerprint delay ( thanks to timjosten )
-• Fixed one-handed mode flickering ( thanks to timjosten )
-• Address some sepolicy denials
+• Synced with Arcana 6.0 changes
+• April SP and FP
+• Upstream kernel to v4.14.275
+• Drop BegoniaParts
+• Drop HintManager for HWUI
+• Fixed 64mp in ANXCam
+• Disable vsync for CPU rendered Apps
+• Hide GPS logs by default
+• Added Viper4AndroidFX
+• Exclude mtk ims app from location indicator
+• Match newer APIs for statusbar heights
+• Tune status bar paddings & rounded corners
+• Remove rounded corner in one-handed mode
+• Enable drag corner resize
+• Set arch variant to armv8-2a-dotprod
+• Prefer hwcodecs for thumbnails
+• Enable support for WFD
+• Disable TTS force stop warning
+• Improve interaction hint
+• Set voice call volume steps to 7
+• Remove obsolete debug.sf.disable_backpressure property
+• Enable back encryption
