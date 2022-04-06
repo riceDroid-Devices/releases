@@ -12,3 +12,13 @@ Device Changelogs:
 • Improved udfps
 • Improved Gaming Mode
 • Misc Changes ...
+
+06/04/22 - April Update
+
+Device Changelogs:
+• Fixed audio call issues
+• Added OOS camera and Gallery
+• Added support for quick tap
+• Added support for Pixel Wallpapers
+• Added back audio amplifier
+• misc stability improvements
