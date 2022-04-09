@@ -1,13 +1,12 @@
-26/03/2022 - EVERGLOW-5.1 Release
+09/04/2022 - FAERIE-6.0 Release
 
 Device Changelogs:
-- Updated FP to raven March 
-- Disabled gms components
-- Add dex2oat changes from barbet
-- Update CNE and DPM blobs from ddv_sprout
-- Update Soter and TUI blobs from ddv_sprout
-- Add OpenGL ES and update Vulkan dEQP feature flags
-- Disable APEX compression
-- Show ColorModes from config_availableColorModes
-- Fixes scroll lag in many apps
-- Fixed NFC (Need to Test)
+
+- Update FP to raven April
+- Update surfaceflinger pinner service
+- Update DSP, Keymaster, Media, WFD from ddv_sprout
+- Adjust charger state CPUs
+- Powersaving in charger mode
+- Enable config_ui_enableFadingMarquee
+- Copy cgroups and task_profiles directly from system/core
+- Build Vendor variants of Display interfaces
