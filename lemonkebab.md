@@ -22,3 +22,14 @@ Device Changelogs:
 • Added support for Pixel Wallpapers
 • Added back audio amplifier
 • misc stability improvements
+
+12/04/22 - April Update Hotfix
+• Added Dolby support
+• Fixed lags while playing videos
+• Fixed recording/ ok google recognition
+• Fixed audio crackling
+• Performance and game mode performance level tuning improvements
+• Optimized Android Runtime 
+• Enabled Dynamic Refresh Rate - if you noticed screen flickering lock refresh to either 60 or 120hz instead of auto/min 60/120hz.
+• more misc improvements..
+
