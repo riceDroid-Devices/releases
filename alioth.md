@@ -1,3 +1,21 @@
+    12/04/2022
+      Changelogs:
+      
+      - Added now playing support
+      - Switch to qti bluetooth stack
+      - Used proton clang
+      - Added thermal profile qs tile
+      - Import missing Media blobs prebuilts from Miui Alioth 
+      - Update blobs from from LA.UM.9.12.r1-13300-SMxx50.QSSI12.
+      - Update audio targets from CAF
+      - Update blobs from MIUI 13.0.3.0 Global EU
+      - Added battery friendly pocket mode
+      - Added per app refresh rate option
+      - Address some sepolicy denials
+      - And many more...
+    
+    
+    
     11/02/22
       Changelogs:
 
