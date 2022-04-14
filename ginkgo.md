@@ -9,3 +9,13 @@
    • pin : Use pie chromatix libs for better camera quality
    • audio: Import Google changes on DEC7 Volume
    • rootdir: Enable 64-bit inode version support for ext4
+
+
+14/04/22
+      Changelogs:
+    
+    • update blobs to v12.5.2.0
+    • Use bluetooth.audio@2.1 HAL
+    • enable quick tap
+    • overlay: Disable slow blur effect to avoid laggish blur effect
+    • upstramed kernel to 4.14.275
