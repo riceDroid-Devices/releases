@@ -1,6 +1,10 @@
-03-17-22
+04-14-22
 
-Initial Build of 12L
-Trees rebased from Cafebabe's LOS 19.0
-Fix LED offline charging indicator
-Fix WiFi and Hotspot switching
+Add support for runtime toggle of navbar
+Enable gestural navigation overlay to match default nav mode
+Import AptX blobs from Crosshatch
+Switch to AOSP WFD
+Switch to AOSP Offline charging animation
+Some misc changes applied to LOS-19.1
+
+Kernel Upstream to 4.9.309
