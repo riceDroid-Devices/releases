@@ -19,3 +19,16 @@
     • enable quick tap
     • overlay: Disable slow blur effect to avoid laggish blur effect
     • upstramed kernel to 4.14.275
+
+
+19/04/22
+      Changelogs:
+ 
+     • Update VENDOR_SECURITY_PATCH from V12.5.2.0.RCOMIXM
+     • Disable TTS force stop warning
+     • audio: Import Google changes on DEC7 Volume
+     • props: Add missing bluetooth properties
+     • Make fingerprint HIDL fully treble compliant
+     • Update DRM HIDL to v1.4
+     • Build vendor variants of hidl HALs
+      
