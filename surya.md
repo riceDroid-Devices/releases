@@ -1,3 +1,8 @@
+build EOL - 19/04/2022
+- Fix faceunlock
+- Import Dirac, Clean Speaker, Thermal Profiles
+- Fix deprecated power profile items
+
 build - 13/04/2022
 - kang IMS blobs from alioth qssi-user-12-SKQ1.211006.001
 - Switch to prebuilt camera provider
