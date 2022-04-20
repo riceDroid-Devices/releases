@@ -1,3 +1,14 @@
+    
+    20/04/2022
+      Changelogs for EOL:
+      
+      - Added Moto Dolby
+      - Update adrena graphics to 615
+      - Reduced camera cutout 
+      - Set readahead_size
+    
+    
+    
     12/04/2022
       Changelogs:
       
