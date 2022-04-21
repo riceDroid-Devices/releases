@@ -1,3 +1,22 @@
+21/04/22 -EOL Update
+Synced with Arcana Final Changes
+Switch to Kawaii kernel
+Kernel upstream to 4.9.309
+Update IRQ balance blobs from OnePlus6
+Update Display & Adreno Blobs from OnePlus6
+Import Renderscript Blobs from Crosshatch
+Switch to QTI AIDL Vibrator HAL
+Switch to QCOM Implementation for audio effects
+Import init script for Gaming-Mode
+Misc Changes in Notification LED & blinking patterns
+Address Leftover Denials
+Added init script for Gaming-Mode Performance
+Tune Foreground CPU-sets
+Implement kernelspace battery saver
+Underhood changes and stability improvements
+Reduced gapps build size
+
+
 07/04/22 - April Update
 
 Device Changelogs
