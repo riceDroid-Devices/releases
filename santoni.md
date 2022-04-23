@@ -1,15 +1,14 @@
-10/04/2022
+23/04/2022
 
 Device Changelogs:
-• Synced Arcana 6.0 changes
-• Upstream Kernel to v4.9.309
+• Synced Arcana FINAL changes
+
 • April Security Patch
 • Fixed Volume Panel
 • Selinux Address: Denials 
-• Downgraded radio hal for better stability
-• Updated audio configs
-• Included wfdshims
-• Revert "santoni: Update IMS/QMI/Radio and WiFi blobs from sweet V13.02.0.SKFMIXM
+• Removed Sound Trigger support (its unstable)
+• Fixed calling sound issue on headset
+• Kernel: 4.9.227 (CAF) - LA.UM.10.6.2.r1-01600-89xx.0 (Clang 14.0.2)
 • Misc. Fixes and Improvements
 
 Known Bugs:
