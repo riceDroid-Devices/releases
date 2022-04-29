@@ -1,12 +1,14 @@
-09/04/2022 - FAERIE-6.0 Release
+29/04/2022 - GALEFORCE (EOL) Release
 
 Device Changelogs:
 
-- Update FP to raven April
-- Update surfaceflinger pinner service
-- Update DSP, Keymaster, Media, WFD from ddv_sprout
-- Adjust charger state CPUs
-- Powersaving in charger mode
-- Enable config_ui_enableFadingMarquee
-- Copy cgroups and task_profiles directly from system/core
-- Build Vendor variants of Display interfaces
+- Fixed NightLight Hyper Orange Color
+- Use threaded GLES render engine
+- Update Wifi PowerSaveOffload
+- Disable remote keyguard animation until it's fixed
+- Update Post Processing Blobs from SLD_sprout
+- Optimize ART props
+- Use volume curves from stock
+- Disable HWC overlay
+- Switch to qcom audio effects
+- Update config_ims_rcs_package to use new ImsService
